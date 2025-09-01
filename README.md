@@ -145,9 +145,6 @@ docker run -p 8080:80 emr-system
 - HTTPS enforcement in production
 - MongoDB connection security
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Support
 
